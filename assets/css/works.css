@@ -3,7 +3,7 @@
 	text-align: center;
 }
 
-#breast {
+.image-width {
 	object-fit: fill;
 	width: 100%;
 }
